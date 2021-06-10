@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\marlon.englemam.SOTRAN\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\marlon.englemam.SOTRAN\\.nuget\\packages"
+    ]
+  }
+}
